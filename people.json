@@ -1,0 +1,36 @@
+
+[
+    {
+        "name": {
+            "first": "Lars",
+            "last": "Sueki"
+        },
+        "age": 40,
+        "location": {
+            "city": "Toronto",
+            "country": "Canada"
+        }
+    },
+    {
+        "name": {
+            "first": "Ulrich",
+            "last": "Sveki"
+        },
+        "age": 45,
+        "location": {
+            "city": "Reykjavik",
+            "country": "Iceland"
+        }
+    },
+    {
+        "name": {
+            "first": "Laurance",
+            "last": "Sueki"
+        },
+        "age": 50,
+        "location": {
+            "city": "Miami",
+            "country": "USA"
+        }
+    }
+]
